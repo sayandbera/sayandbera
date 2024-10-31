@@ -1,5 +1,5 @@
 ```kotlin
-val mohamed = developer {
+val sayan = developer {
     about {
         name = "Sayan Bera"
         company = SayanX
