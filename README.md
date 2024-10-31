@@ -3,7 +3,7 @@ val mohamed = developer {
     about {
         name = "Sayan Bera"
         company = SayanX
-        role = Founder_CEO_"SayanX"
+        role = Founder_CEO_SayanX
     }
     links {
         twitter = "@sayandbera"
