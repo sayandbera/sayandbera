@@ -7,6 +7,7 @@ val sayan = developer {
     }
     links {
         twitter = "@sayandbera"
+        linkedIn = "in/sayandbera"
     }
 }
 ```
