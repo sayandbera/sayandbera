@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Sayan Bera, Experienced Android Developer with over 3 years in crafting intuitive apps.  
-📱 Currently building Inklet, a productivity app balancing simplicity and functionality.  
-🧑‍💻 Exploring cross-platform development with Compose Multiplatform.  
-📩 Connect with me to collaborate or discuss Android and cross-platform development!
+👋 Hi, I'm Sayan Bera — lover of coffee and code, building cool things.  
+🛠️ I'm an experienced Android developer (3+ years), now diving deep into cross-platform development with **Expo** and **React Native** — and honestly, I love it.  
+🌱 Always exploring new tools like **Supabase**, **Clerk**, and **TypeScript** to craft better products.  
+📩 Open to collaboration — let's build something awesome together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayandbera)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayandbera)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayandbera)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayandbera)
